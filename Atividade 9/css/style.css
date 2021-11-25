@@ -1,0 +1,64 @@
+ul {
+    padding: 0;
+    
+}
+
+nav {
+    background-color: #161616;
+    padding: 0 20px;
+    align-items: center;
+}
+
+h1,
+p.Menu {
+    color: #FFF;
+    font-family:unset;
+}
+li {
+    margin: 0;
+    padding: 0 20px;
+}
+li.Menu{
+    width: 200;
+    height: 30;
+}
+
+li.Menu:hover,
+h2.link:hover,
+button:hover {
+    opacity: 0.8;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+#image1{
+    height: 350;
+    width: 525;    
+}
+
+div.Enredo,
+div.Analise{
+    width: 900;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+div.Elenco{
+    width: 1000;
+    text-align: justify;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+a.link{
+    margin: 0;
+    padding: 20px;
+    font-family: Arial;
+    color: rgba(48, 14, 102, 0.295);
+}
+#link{
+    font-family: Arial;
+    color: black;
+}
+#image2{
+    width: 600;
+    height: 335;
+}
